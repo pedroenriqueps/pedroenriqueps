@@ -1,6 +1,6 @@
 ### Olá eu sou Pedro Souza 🇧🇷
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/pedro-e-p-souza-697a93241/](https://www.linkedin.com/in/pedroenriqueps/))
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroenriqueps/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_pedr0_sz/)
 
 
